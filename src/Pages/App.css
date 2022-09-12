@@ -1,0 +1,35 @@
+.main {
+	width: 100vh;
+	margin: 30vh auto;
+	text-align: center;
+}
+
+.btn {
+	margin-bottom: 5vh;
+	border: 2px solid black;
+	background-color: aqua;
+	width: 20vh;
+}
+
+.content {
+	display: flex;
+	justify-content: center;
+}
+
+.item {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	border-radius: 50%;
+	margin-left: 20px;
+}
+
+#blue {
+	background-color: blue;
+}
+#red {
+	background-color: red;
+}
+#orange {
+	background-color: orange;
+}
